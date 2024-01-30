@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\bin\Debug\net8.0\HomeTask2.exe
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\bin\Debug\net8.0\HomeTask2.deps.json
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\bin\Debug\net8.0\HomeTask2.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\bin\Debug\net8.0\HomeTask2.dll
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\bin\Debug\net8.0\HomeTask2.pdb
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\HomeTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\HomeTask2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\HomeTask2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\HomeTask2.dll
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\refint\HomeTask2.dll
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\HomeTask2.pdb
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\HomeTask2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CSharpHomeTask7\HomeTask2\obj\Debug\net8.0\ref\HomeTask2.dll

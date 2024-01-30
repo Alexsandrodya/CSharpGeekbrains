@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\TaskFromSeminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\TaskFromSeminar.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\TaskFromSeminar.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\TaskFromSeminar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\bin\Debug\net8.0\TaskFromSeminar.exe
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\bin\Debug\net8.0\TaskFromSeminar.deps.json
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\bin\Debug\net8.0\TaskFromSeminar.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\bin\Debug\net8.0\TaskFromSeminar.dll
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\bin\Debug\net8.0\TaskFromSeminar.pdb
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\TaskFromSeminar.dll
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\refint\TaskFromSeminar.dll
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\TaskFromSeminar.pdb
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\TaskFromSeminar.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CSharpHomeTask7\TaskFromSeminar\obj\Debug\net8.0\ref\TaskFromSeminar.dll
